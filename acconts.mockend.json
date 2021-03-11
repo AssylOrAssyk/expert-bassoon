@@ -1,114 +1,70 @@
 {
   "Accounts": [
     {
-      "id": 1,
-      "name": "name1",
-      "surname": "surname1",
-      "login": "login1",
+      "username": "Username1",
       "email": "email1",
-      "password": "password1",
-      "interested genre": "genre1",
-      "avatar": "avatar.jpg",
-      "hair color": "color1"
+      "password": "password1"
+
     },
     {
-      "id": 2,
-      "name": "name1",
-      "surname": "surname1",
-      "login": "login1",
-      "email": "email1",
-      "password": "password1",
-      "interested genre": "genre1",
-      "avatar": "avatar.jpg",
-      "hair color": "color1"
+      "username": "Username2",
+      "email": "email2",
+      "password": "password2"
+
     },
     {
-      "id": 3,
-      "name": "name1",
-      "surname": "surname1",
-      "login": "login1",
-      "email": "email1",
-      "password": "password1",
-      "interested genre": "genre1",
-      "avatar": "avatar.jpg",
-      "hair color": "color1"
+      "username": "Username3",
+      "email": "email3",
+      "password": "password3"
+
     },
     {
-      "id": 4,
-      "name": "name1",
-      "surname": "surname1",
-      "login": "login1",
-      "email": "email1",
-      "password": "password1",
-      "interested genre": "genre1",
-      "avatar": "avatar.jpg",
-      "hair color": "color1"
+      "username": "Username4",
+      "email": "email4",
+      "password": "password4"
+
     },
     {
-      "id": 5,
-      "name": "name1",
-      "surname": "surname1",
-      "login": "login1",
-      "email": "email1",
-      "password": "password1",
-      "interested genre": "genre1",
-      "avatar": "avatar.jpg",
-      "hair color": "color1"
+      "username": "Username4",
+      "email": "email4",
+      "password": "password4"
+
     },
     {
-      "id": 6,
-      "name": "name1",
-      "surname": "surname1",
-      "login": "login1",
-      "email": "email1",
-      "password": "password1",
-      "interested genre": "genre1",
-      "avatar": "avatar.jpg",
-      "hair color": "color1"
+      "username": "Username5",
+      "email": "email5",
+      "password": "password5"
+
     },
     {
-      "id": 7,
-      "name": "name1",
-      "surname": "surname1",
-      "login": "login1",
-      "email": "email1",
-      "password": "password1",
-      "interested genre": "genre1",
-      "avatar": "avatar.jpg",
-      "hair color": "color1"
+      "username": "Username6",
+      "email": "email6",
+      "password": "password6"
+
     },
     {
-      "id": 8,
-      "name": "name1",
-      "surname": "surname1",
-      "login": "login1",
-      "email": "email1",
-      "password": "password1",
-      "interested genre": "genre1",
-      "avatar": "avatar.jpg",
-      "hair color": "color1"
+      "username": "Username7",
+      "email": "email7",
+      "password": "password7"
+
     },
     {
-      "id": 9,
-      "name": "name1",
-      "surname": "surname1",
-      "login": "login1",
-      "email": "email1",
-      "password": "password1",
-      "interested genre": "genre1",
-      "avatar": "avatar.jpg",
-      "hair color": "color1"
+      "username": "Username8",
+      "email": "email8",
+      "password": "password8"
+
     },
     {
-      "id": 10,
-      "name": "name1",
-      "surname": "surname1",
-      "login": "login1",
-      "email": "email1",
-      "password": "password1",
-      "interested genre": "genre1",
-      "avatar": "avatar.jpg",
-      "hair color": "color1"
+      "username": "Username9",
+      "email": "email9",
+      "password": "password9"
+
+    },
+    {
+      "username": "Username10",
+      "email": "email10",
+      "password": "password10"
+
     }
   ]
 } 
