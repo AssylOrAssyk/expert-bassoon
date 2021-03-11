@@ -1,0 +1,95 @@
+{
+      "Accounts":
+  [
+     {
+       "id": int,
+      "name": "String",
+      "surname": "String",
+      "login": "String",
+      "email": "String",
+      "password": "String",
+      "interested genre": "String"
+     }
+      {
+       "id": int,
+      "name": "String",
+      "surname": "String",
+      "login": "String",
+      "email": "String",
+      "password": "String",
+      "interested genre": "String"
+     }
+      {
+       "id": int,
+      "name": "String",
+      "surname": "String",
+      "login": "String",
+      "email": "String",
+      "password": "String",
+      "interested genre": "String"
+     }
+      {
+       "id": int,
+      "name": "String",
+      "surname": "String",
+      "login": "String",
+      "email": "String",
+      "password": "String",
+      "interested genre": "String"
+     }
+      {
+       "id": int,
+      "name": "String",
+      "surname": "String",
+      "login": "String",
+      "email": "String",
+      "password": "String",
+      "interested genre": "String"
+     }
+      {
+       "id": int,
+      "name": "String",
+      "surname": "String",
+      "login": "String",
+      "email": "String",
+      "password": "String",
+      "interested genre": "String"
+     }
+      {
+       "id": int,
+      "name": "String",
+      "surname": "String",
+      "login": "String",
+      "email": "String",
+      "password": "String",
+      "interested genre": "String"
+     }
+      {
+       "id": int,
+      "name": "String",
+      "surname": "String",
+      "login": "String",
+      "email": "String",
+      "password": "String",
+      "interested genre": "String"
+     }
+      {
+       "id": int,
+      "name": "String",
+      "surname": "String",
+      "login": "String",
+      "email": "String",
+      "password": "String",
+      "interested genre": "String"
+     }
+      {
+       "id": int,
+      "name": "String",
+      "surname": "String",
+      "login": "String",
+      "email": "String",
+      "password": "String",
+      "interested genre": "String"
+     }
+  ]
+}
